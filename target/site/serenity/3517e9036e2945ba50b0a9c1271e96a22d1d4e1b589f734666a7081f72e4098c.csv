@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User register","Register with all fields empty","SUCCESS","2023-05-24T02:40:27.259-05:00[America/Bogota]","0.0","56.8"
+"User register","Register user with an error field","SUCCESS","2023-05-24T02:41:24.063-05:00[America/Bogota]","0.0","69.46"
+"User register","register user successful","SUCCESS","2023-05-24T02:42:33.53-05:00[America/Bogota]","0.0","73.33"
+"User register","register multiple users successful","SUCCESS","2023-05-24T02:43:46.877-05:00[America/Bogota]","0.0","61.25"
+"User register","Delete user successful","SUCCESS","2023-05-24T02:44:48.151-05:00[America/Bogota]","0.0","70.99"

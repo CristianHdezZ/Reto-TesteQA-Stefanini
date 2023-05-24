@@ -1,0 +1,39 @@
+[
+  {
+    "userType": "OnlyFirstName",
+    "name": "Cristian",
+    "email": "ingcristian@gmail.com",
+    "password": "cristian1234"
+  },
+  {
+    "userType": "invalidEmail",
+    "name": "Pepito Hernandez",
+    "email": "pepito@",
+    "password": "Pepito1234"
+  },
+  {
+    "userType": "invalidPassword",
+    "name": "Pepito Hernandez",
+    "email": "pepito@gmail.com",
+    "password": "Pe123"
+  },
+  {
+    "userType": "userSuccessfulI",
+    "name": "Pepito Hernandez",
+    "email": "pepito@gmail.com",
+    "password": "Pepito1234575"
+  },
+  {
+    "userType": "userSuccessfulII",
+    "name": "Pepito Perez",
+    "email": "pepitoP@gmail.com",
+    "password": "Pepito1234575"
+  },
+  {
+    "userType": "userSuccessfulIII",
+    "name": "Cristian Hernandez",
+    "email": "cristianhdez@gmail.com",
+    "password": "Pepito1234575"
+  }
+
+]
