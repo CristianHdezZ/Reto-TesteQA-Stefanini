@@ -50,6 +50,7 @@ hs_err_pid*
 .idea
 .gradle
 build/
+target/
 
 
 # Ignore Gradle GUI config
